@@ -1,0 +1,89 @@
+#bckimg{
+	color:red;
+	background-image: url(../img/logo_css.png);
+	background-repeat: no-repeat;
+	text-align:center
+}
+header nav{
+	display: inline-block;
+	width:96%;
+	text-align:center;
+}
+nav ul{
+	
+	list-style-type:none;
+	display:inline-block; 
+	
+}
+ul li{
+	display: inline-block;
+	margin:20px;
+	
+}
+header div {
+	height:200px;
+}
+body{
+	margin:auto;
+}
+#bckimg{
+	color:red;
+	background-image: url(../img/logo_css.png);
+	background-repeat: no-repeat;
+	text-align:center;
+}
+#bckimg h1{#bckimg{
+	color:red;
+	background-image: url(../img/logo_css.png);
+	background-repeat: no-repeat;
+	text-align:center
+}
+header nav{
+	display: inline-block;
+	width: -webkit-fill-available;
+	
+}
+nav ul{
+	
+	list-style-type:none;
+	display:inline-block; 
+
+	
+}
+ul li{
+	display: inline-block;
+	
+}
+header div {
+	height:200px;
+}
+body{
+	margin:auto;
+}
+#bckimg{
+	color:red;
+	background-image: url(../img/logo_css.png);
+	background-repeat: no-repeat;
+	text-align:center;
+}
+#bckimg h1{
+	margin:auto;
+	padding-top: 60px;
+}
+
+header div {
+	height:200px;
+}
+
+
+	margin:auto;
+	padding-top: 60px;
+}
+
+header div {
+	height:200px;
+}
+#ulright{
+	float:right;
+}
+
