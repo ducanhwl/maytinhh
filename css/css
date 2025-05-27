@@ -1,89 +1,43 @@
-#bckimg{
-	color:red;
-	background-image: url(../img/logo_css.png);
-	background-repeat: no-repeat;
-	text-align:center
-}
-header nav{
-	display: inline-block;
-	width:96%;
-	text-align:center;
-}
-nav ul{
-	
-	list-style-type:none;
-	display:inline-block; 
-	
-}
-ul li{
-	display: inline-block;
-	margin:20px;
-	
-}
-header div {
-	height:200px;
-}
 body{
-	margin:auto;
+font-family:sans-serif;
 }
 #bckimg{
-	color:red;
-	background-image: url(../img/logo_css.png);
+	color:#0b0b0b;
+	background-image: url(https://trungchinhaudio.vn/media/news/1902_14-lap-dat-he-thong-loa-thong-bao-toa-am-thanh-nha-chua-bai-dinh-ninh-binh.jpg);
 	background-repeat: no-repeat;
 	text-align:center;
-}
-#bckimg h1{#bckimg{
-	color:red;
-	background-image: url(../img/logo_css.png);
-	background-repeat: no-repeat;
-	text-align:center
-}
-header nav{
-	display: inline-block;
-	width: -webkit-fill-available;
+	background-size:100%;
+	background-position:center -120px;
+	opacity:0.8;
 	
-}
-nav ul{
-	
-	list-style-type:none;
-	display:inline-block; 
-
-	
-}
-ul li{
-	display: inline-block;
-	
-}
-header div {
-	height:200px;
-}
-body{
-	margin:auto;
-}
-#bckimg{
-	color:red;
-	background-image: url(../img/logo_css.png);
-	background-repeat: no-repeat;
-	text-align:center;
 }
 #bckimg h1{
+	font-family:sans-serif;
 	margin:auto;
-	padding-top: 60px;
+	padding:4%;
+	font-size:2.8em;
 }
-
+header nav{
+	display: inline-block;
+	width:100%;
+	text-align: center;
+	border-bottom:1px outset;
+	
+}
+nav ul{
+	padding:0;
+	list-style-type:none;
+	display:inline-block; 
+	
+}
+ul li{
+	display: inline-block;
+	margin:0 20px;
+	font-size:20px;s
+}
 header div {
-	height:200px;
+	height:220px;
 }
-
-
+body{
 	margin:auto;
-	padding-top: 60px;
 }
-
-header div {
-	height:200px;
-}
-#ulright{
-	float:right;
-}
-
